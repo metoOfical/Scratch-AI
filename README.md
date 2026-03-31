@@ -6,4 +6,4 @@ Witaj w projekcie **Scratch AI**! Ten projekt został stworzony w wersji Scratch
 # Zapowiadamy 1.1.10 przesz Meta/@metoOfical‼️
 ---
 # timer⏱️
-#              4 Dni(UPADE DZIEŃ UTC/EUTC)
+#              3 Dni(UPADE DZIEŃ UTC/EUTC)
