@@ -6,4 +6,5 @@ Witaj w projekcie **Scratch AI**! Ten projekt został stworzony w wersji Scratch
 # Zapowiadamy 1.1.10 przesz Meta/@metoOfical‼️
 ---
 # timer⏱️
-#              3 Dni(UPADE DZIEŃ UTC/EUTC)
+#              --- ERRROR UPDATE ---
+# Promocja @MetoOfical -- Pobiesz HamsterOS System na linux mint XFCE
